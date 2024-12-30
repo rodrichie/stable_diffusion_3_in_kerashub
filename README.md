@@ -62,12 +62,6 @@ Here are the key libraries:
 - `stable_diffusion_3_in_keras_hub.ipynb`: Main notebook for running Stable Diffusion.
 - `requirements.txt`: List of required libraries.
 
-## Example Output
-
-Here is an example of an image generated using the notebook:
-
-![Example Output](example_output.png)
-
 ## References
 
 - [Stable Diffusion](https://github.com/CompVis/stable-diffusion)
